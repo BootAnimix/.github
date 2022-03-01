@@ -1,0 +1,1 @@
+![BootAnimix-Light](https://raw.githubusercontent.com/BootAnimix/.github/main/profile/light.png#gh-light-mode-only)![BootAnimix-Dark](https://raw.githubusercontent.com/BootAnimix/.github/main/profile/dark.png#gh-dark-mode-only)
